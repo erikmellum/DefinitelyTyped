@@ -3598,6 +3598,7 @@ declare module 'react-syntax-highlighter/dist/cjs/styles/prism' {
     export { default as nord } from 'react-syntax-highlighter/dist/cjs/styles/prism/nord';
     export { default as okaidia } from 'react-syntax-highlighter/dist/cjs/styles/prism/okaidia';
     export { default as pojoaque } from 'react-syntax-highlighter/dist/cjs/styles/prism/pojoaque';
+    export { default as oneDark } from 'react-syntax-highlighter/dist/cjs/styles/prism/one-dark';
     export { default as prism } from 'react-syntax-highlighter/dist/cjs/styles/prism/prism';
     export { default as shadesOfPurple } from 'react-syntax-highlighter/dist/cjs/styles/prism/shades-of-purple';
     export { default as solarizedlight } from 'react-syntax-highlighter/dist/cjs/styles/prism/solarizedlight';
